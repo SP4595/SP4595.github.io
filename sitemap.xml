@@ -71,10 +71,24 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://sp4595.github.io/tags/Coursera-ML-2023%E7%89%88/</loc>
+    <lastmod>2023-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://sp4595.github.io/categories/Python%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2023-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sp4595.github.io/categories/ML%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2023-05-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
