@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://sp4595.github.io/2023/05/21/regression/</loc>
+    <loc>https://sp4595.github.io/2023/08/26/EM%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3/</loc>
     
-    <lastmod>2023-08-25</lastmod>
+    <lastmod>2023-08-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://sp4595.github.io/2023/08/26/EM%E7%AE%97%E6%B3%95%E8%AF%A6%E8%A7%A3/</loc>
+    <loc>https://sp4595.github.io/2023/05/21/regression/</loc>
     
     <lastmod>2023-08-25</lastmod>
     
@@ -76,7 +76,7 @@
 
   <url>
     <loc>https://sp4595.github.io/</loc>
-    <lastmod>2023-08-25</lastmod>
+    <lastmod>2023-08-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,21 +84,21 @@
   
   <url>
     <loc>https://sp4595.github.io/tags/CSC1002/</loc>
-    <lastmod>2023-08-25</lastmod>
+    <lastmod>2023-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sp4595.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2023-08-25</lastmod>
+    <lastmod>2023-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sp4595.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E6%95%B0%E5%AD%A6%E5%8E%9F%E7%90%86/</loc>
-    <lastmod>2023-08-25</lastmod>
+    <lastmod>2023-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -107,14 +107,14 @@
   
   <url>
     <loc>https://sp4595.github.io/categories/Python%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2023-08-25</lastmod>
+    <lastmod>2023-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://sp4595.github.io/categories/ML%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2023-08-25</lastmod>
+    <lastmod>2023-08-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
