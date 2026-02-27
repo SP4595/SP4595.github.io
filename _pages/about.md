@@ -90,8 +90,8 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
 </div>
 
 # 🎖 Honors and Awards
-- *2024-2025* AY2024-2025 Academic Performance Scholarship: Class A (Year GPA top 1%)
-- *2023-2024* AY2023-2024 Academic Performance Scholarship: Class A (Year GPA top 1%)
+- *2024-2025* Academic Performance Scholarship: Class A (Year GPA top 1%)
+- *2023-2024* Academic Performance Scholarship: Class A (Year GPA top 1%)
 - *2024* MCM/ICM Meritorious Winner
 - *2022-2025* Yearly Dean List Award (Outstanding Academic Performance, three consecutive years)
 
