@@ -131,7 +131,20 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
 
 
 # 💻 Internships
-- *2026.02 - Present*, [SenseTime](https://www.sensetime.com/en), China.
+
+<table style="border-collapse:collapse; border:none;">
+  <tr style="border:none;">
+    <td style="vertical-align:middle; text-align:center; width:80px; border:none;">
+      <img src="images/sensetime.png" alt="SenseTime" width="64">
+    </td>
+    <td style="vertical-align:top; padding-left:16px; border:none;">
+      <b>SenseTime</b><br>
+      <span style="color:#888;">2026.02 - Present</span><br>
+      Algorithm Intern (World Model)<br>
+      Location: China
+    </td>
+  </tr>
+</table>
 
 # 👔 Services
 - Reviewer of IROS/ICML/ICLR/AAAI/EMNLP
