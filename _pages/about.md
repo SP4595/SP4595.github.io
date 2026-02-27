@@ -53,6 +53,18 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2026 (Under Review)</div><img src='images/placeholder.png' alt="RoboMemory" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](https://arxiv.org/abs/2508.01415)
+
+**Mingcong Lei**, Honghao Cai, Zezhou Cui, Liangchen Tan, Junkun Hong, Gehan Hu, Shuangyu Zhu, Yimou Wu, Shaohan Jiang, Ge Wang, Yuyuan Yang, Junyuan Tan, Zhenglin Wan, Zhen Li, Shuguang Cui, Yiming Zhao, Yatong Han
+
+[**arXiv**](https://arxiv.org/abs/2508.01415)
+- RSS 2026 Under Review
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 (Under Review)</div><img src='images/placeholder.png' alt="StarDojo" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -66,17 +78,7 @@ Weihao Tan, Changjiu Jiang, Yu Duan, **Mingcong Lei**, Li JiaGeng, Yitian Hong, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2026 (Under Review)</div><img src='images/placeholder.png' alt="RoboMemory" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](https://arxiv.org/abs/2508.01415)
-
-**Mingcong Lei**, Honghao Cai, Zezhou Cui, Liangchen Tan, Junkun Hong, Gehan Hu, Shuangyu Zhu, Yimou Wu, Shaohan Jiang, Ge Wang, Yuyuan Yang, Junyuan Tan, Zhenglin Wan, Zhen Li, Shuguang Cui, Yiming Zhao, Yatong Han
-
-[**arXiv**](https://arxiv.org/abs/2508.01415)
-- RSS 2026 Under Review
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/placeholder.png' alt="STMA" width="100%"></div></div>
