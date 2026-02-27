@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 🤔 About Me
+
 I'm a Y4 Undergraduate student from The Chinese University of Hong Kong, Shenzhen, majoring in Computer Science and Engineering. My research focuses on embodied AI and robotics. My research interests lie at the intersection of large language models, robotics, and embodied intelligence. I'm particularly interested in developing robust frameworks that enable AI agents to perform complex tasks in dynamic real-world environments. My recent work includes VLA, World Model, Agentic AI, Memory Systems. 
 
 
@@ -106,12 +108,12 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
 # 📖 Educations
 
 
-<table>
-  <tr>
-    <td style="vertical-align:middle; text-align:center; width:80px;">
+<table style="border-collapse:collapse; border:none;">
+  <tr style="border:none;">
+    <td style="vertical-align:middle; text-align:center; width:80px; border:none;">
       <img src="images/cuhk.png" alt="CUHK" width="64">
     </td>
-    <td style="vertical-align:top; padding-left:16px;">
+    <td style="vertical-align:top; padding-left:16px; border:none;">
       <b>The Chinese University of Hong Kong, Shenzhen</b><br>
       <span style="color:#888;">2022.09 - 2026.06 (expected)</span><br>
       B.Eng. in Computer Science and Engineering<br>
@@ -119,11 +121,11 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
       <b>MGPA:</b> 4.0/4.0 (Rank: 1/129, Top 1%)
     </td>
   </tr>
-  <tr>
-    <td style="vertical-align:middle; text-align:center; width:80px;">
+  <tr style="border:none;">
+    <td style="vertical-align:middle; text-align:center; width:80px; border:none;">
       <img src="images/ntu.png" alt="NTU" width="64">
     </td>
-    <td style="vertical-align:top; padding-left:16px;">
+    <td style="vertical-align:top; padding-left:16px; border:none;">
       <b>Nanyang Technological University (Exchange)</b><br>
       <span style="color:#888;">2024.09 - 2024.12</span><br>
       Major: Computer Science<br>
