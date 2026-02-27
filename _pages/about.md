@@ -111,9 +111,6 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
   Major: Computer Science  
   CGPA: 4.75/5.0
 
-# 💬 Invited Talks
-- TBD
-
 
 # 💻 Internships
 - *2026.02 - Present*, [SenseTime](https://www.sensetime.com/en), China.
