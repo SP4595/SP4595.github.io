@@ -22,10 +22,10 @@ I'm a Y4 Undergraduate student from The Chinese University of Hong Kong, Shenzhe
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 Joined SenseTime as an Algorithm Intern focusing on world model.
-- *2025.12*: &nbsp;🏆 Awarded AY2024-2025 Academic Performance Scholarship: Class A (Top 1% GPA).
+- *2025.12*: &nbsp;🏆🏆 Awarded AY2024-2025 Academic Performance Scholarship: Class A (Top 1% GPA).
 - *2025.04*: &nbsp;🎉🎉 One **First autor** paper accepted by IROS 2025 (Oral).
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by NAACL 2025 Findings.
-- *2024.12*: &nbsp;🏆 Awarded AY2023-2024 Academic Performance Scholarship: Class A (Top 1% GPA).
+- *2024.12*: &nbsp;🏆🏆 Awarded AY2023-2024 Academic Performance Scholarship: Class A (Top 1% GPA).
 
 # 📝 Publications 
 
