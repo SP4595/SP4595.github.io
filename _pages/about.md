@@ -105,20 +105,32 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
 
 # 📖 Educations
 
-<div style="display: flex; align-items: center;">
-  <img src="images/cuhk.png" alt="CUHK" width="32" style="margin-right:8px;">
-  <b>2022.09 - 2026.06 (expected)</b> &nbsp; The Chinese University of Hong Kong, Shenzhen  
-</div>
-B.Eng. in Computer Science and Engineering  
-- CGPA: <b>3.90/4.0</b> (Rank: 7/129, Top 6%)
-- MGPA: <b>4.0/4.0</b> (Rank: 1/129, Top 1%)
 
-<div style="display: flex; align-items: center;">
-  <img src="images/ntu.png" alt="NTU" width="32" style="margin-right:8px;">
-  <b>2024.09 - 2024.12</b> &nbsp; Nanyang Technological University (Exchange)  
-</div>
-Major: Computer Science  
-- CGPA: <b>4.75/5.0</b>
+<table>
+  <tr>
+    <td style="vertical-align:middle; text-align:center; width:80px;">
+      <img src="images/cuhk.png" alt="CUHK" width="64">
+    </td>
+    <td style="vertical-align:top; padding-left:16px;">
+      <b>The Chinese University of Hong Kong, Shenzhen</b><br>
+      <span style="color:#888;">2022.09 - 2026.06 (expected)</span><br>
+      B.Eng. in Computer Science and Engineering<br>
+      <b>CGPA:</b> 3.90/4.0 (Rank: 7/129, Top 6%)<br>
+      <b>MGPA:</b> 4.0/4.0 (Rank: 1/129, Top 1%)
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle; text-align:center; width:80px;">
+      <img src="images/ntu.png" alt="NTU" width="64">
+    </td>
+    <td style="vertical-align:top; padding-left:16px;">
+      <b>Nanyang Technological University (Exchange)</b><br>
+      <span style="color:#888;">2024.09 - 2024.12</span><br>
+      Major: Computer Science<br>
+      <b>CGPA:</b> 4.75/5.0
+    </td>
+  </tr>
+</table>
 
 
 # 💻 Internships
