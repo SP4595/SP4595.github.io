@@ -44,7 +44,6 @@ I'm a Y4 Undergraduate student from The Chinese University of Hong Kong, Shenzhe
 
 **Mingcong Lei**, Honghao Cai, Zezhou Cui, Liangchen Tan, Junkun Hong, Gehan Hu, Shuangyu Zhu, Yimou Wu, Shaohan Jiang, Ge Wang, Yuyuan Yang, Junyuan Tan, Zhenglin Wan, Zhen Li, Shuguang Cui, Yiming Zhao, Yatong Han
 
-[**arXiv**](https://arxiv.org/abs/2508.01415)
 - RSS 2026 Under Review
 </div>
 </div>
@@ -57,7 +56,6 @@ I'm a Y4 Undergraduate student from The Chinese University of Hong Kong, Shenzhe
 
 Weihao Tan, Changjiu Jiang, Yu Duan, **Mingcong Lei**, Li JiaGeng, Yitian Hong, Xinrun Wang, Bo An
 
-[**arXiv**](https://arxiv.org/abs/2507.07445)
 - ECCV 2026 Under Review
 </div>
 </div>
@@ -69,7 +67,6 @@ Weihao Tan, Changjiu Jiang, Yu Duan, **Mingcong Lei**, Li JiaGeng, Yitian Hong, 
 
 **Mingcong Lei**, Ge Wang, Yiming Zhao, Zhixin Mai, Qing Zhao, Yao Guo, Zhen Li, Shuguang Cui, Yatong Han, Jinke Ren
 
-[**arXiv**](https://arxiv.org/abs/2503.00729)
 - IROS 2025, Equal contribution
 </div>
 </div>
@@ -82,7 +79,6 @@ Weihao Tan, Changjiu Jiang, Yu Duan, **Mingcong Lei**, Li JiaGeng, Yitian Hong, 
 
 **Mingcong Lei**, Yiming Zhao, Ge Wang, Zhixin Mai, Shuguang Cui, Yatong Han, Jinke Ren
 
-[**arXiv**](https://arxiv.org/abs/2502.10177)
 - arXiv 2025
 </div>
 </div>
@@ -94,7 +90,6 @@ Weihao Tan, Changjiu Jiang, Yu Duan, **Mingcong Lei**, Li JiaGeng, Yitian Hong, 
 
 Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei**, Xiao Zhang, Haining Wang, Qianqian Xie, Jimin Huang, Honghai Yu, Benyou Wang
 
-[**arXiv**](https://arxiv.org/abs/2410.14059)
 - NAACL 2025 Findings
 </div>
 </div>
