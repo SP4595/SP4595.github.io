@@ -17,40 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Y4 Undergraduate student from The Chinese University of Hong Kong, Shenzhen, majoring in Computer Science and Engineering. My research focuses on embodied AI and robotics. My research interests lie at the intersection of large language models, robotics, and embodied intelligence. I'm particularly interested in developing robust frameworks that enable AI agents to perform complex tasks in dynamic real-world environments. My recent work includes VLA, World Model, Agentic AI, Memory Systems. 
+I'm a Y4 Undergraduate student from The Chinese University of Hong Kong, Shenzhen, majoring in Computer Science and Engineering. My research focuses on embodied AI and robotics. My research interests lie at the intersection of large language models, robotics, and embodied intelligence. I'm particularly interested in developing robust frameworks that enable AI agents to perform complex tasks in dynamic real-world environments. My recent work includes developing CLEA (Closed-Loop Embodied Agent), a novel architecture that enhances task execution capabilities in dynamic environments through interactive task planning and multimodal execution criticism. I've also worked on STMA (Spatio-Temporal Memory Agent), which focuses on improving long-horizon task planning by integrating spatio-temporal memory and dynamic knowledge graphs.  I aim to bridge the gap between high-level language understanding and practical robotic execution, developing systems that can reliably handle real-world uncertainties and environmental changes. My research emphasizes creating robust, adaptable AI agents that can effectively decompose complex tasks while maintaining reliable execution in dynamic settings.
+
+My research interest includes VLA, World Model, Agentic AI. I  <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 Joined SenseTime as an Algorithm Intern focusing on world model.
-- *2025.04*: &nbsp;🎉🎉 one paper accepted by IROS 2025
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">CVPR 2016</div>
-<img src='images/500x300.png' alt="sym" width="100%">
-</div>
-</div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-image'>
-<div>
-<div class="badge">CVPR 2016</div>
-<img src='images/500x300.png' alt="sym" width="100%">
-</div>
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
