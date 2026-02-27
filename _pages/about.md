@@ -105,7 +105,7 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
 
 # 📖 Educations
 
-div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;">
   <img src="images/cuhk.png" alt="CUHK" width="32" style="margin-right:8px;">
   <b>2022.09 - 2026.06 (expected)</b> &nbsp; The Chinese University of Hong Kong, Shenzhen  
 </div>
