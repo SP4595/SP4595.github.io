@@ -110,15 +110,15 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
   <b>2022.09 - 2026.06 (expected)</b> &nbsp; The Chinese University of Hong Kong, Shenzhen  
 </div>
 B.Eng. in Computer Science and Engineering  
-📝 CGPA: <b>3.90/4.0</b> (Rank: 7/129, Top 6%)
-📝 MGPA: <b>4.0/4.0</b> (Rank: 1/129, Top 1%)
+- CGPA: <b>3.90/4.0</b> (Rank: 7/129, Top 6%)
+- MGPA: <b>4.0/4.0</b> (Rank: 1/129, Top 1%)
 
 <div style="display: flex; align-items: center;">
   <img src="images/ntu.png" alt="NTU" width="32" style="margin-right:8px;">
   <b>2024.09 - 2024.12</b> &nbsp; Nanyang Technological University (Exchange)  
 </div>
 Major: Computer Science  
-📝 CGPA: <b>4.75/5.0</b>
+- CGPA: <b>4.75/5.0</b>
 
 
 # 💻 Internships
