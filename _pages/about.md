@@ -98,8 +98,12 @@ Weihao Tan, Changjiu Jiang, Yu Duan, **Mingcong Lei**, Li JiaGeng, Yitian Hong, 
 - *2022-2025* Yearly Dean List Award (Outstanding Academic Performance, three consecutive years)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2026.06 (expected)*, The Chinese University of Hong Kong, Shenzhen  
+  B.Eng. in Computer Science and Engineering  
+  CGPA: 3.90/4.0 (Rank: 7/129, Top 6%)
+- *2024.09 - 2024.12*, Nanyang Technological University (Exchange)  
+  Major: Computer Science  
+  CGPA: 4.75/5.0
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
