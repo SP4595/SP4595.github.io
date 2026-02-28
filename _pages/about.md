@@ -114,7 +114,7 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
   </tr>
   <tr style="border:none;">
     <td style="vertical-align:middle; text-align:center; width:80px; border:none;">
-      <img src="images/ntu.png" alt="NTU" width="64">
+      <img src="images/ntu_single.png" alt="NTU" width="64">
     </td>
     <td style="vertical-align:top; padding-left:16px; border:none;">
       <b>Nanyang Technological University (Exchange)</b><br>
