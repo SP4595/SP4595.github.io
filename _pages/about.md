@@ -100,6 +100,31 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
 
 
 <table style="border-collapse:collapse; border:none;">
+
+  <tr style="border:none;">
+    <td style="vertical-align:middle; text-align:center; width:80px; border:none;">
+      <img src="images/hku.png" alt="HKU" width="64">
+    </td>
+    <td style="vertical-align:top; padding-left:16px; border:none;">
+      <b>HKU MMLab (Incoming)</b><br>
+      <span style="color:#888;">2026 Fall (Expected)</span><br>
+      Musketeers Foundation Institute of Data Science (Conditional Offer)<br>
+      <b>Lab:</b> MMLab, HKU
+    </td>
+  </tr>
+
+  <tr style="border:none;">
+    <td style="vertical-align:middle; text-align:center; width:80px; border:none;">
+      <img src="images/ntu_single.png" alt="NTU" width="64">
+    </td>
+    <td style="vertical-align:top; padding-left:16px; border:none;">
+      <b>Nanyang Technological University (Exchange)</b><br>
+      <span style="color:#888;">2024.09 - 2024.12</span><br>
+      Major: Computer Science<br>
+      <b>CGPA:</b> 4.75/5.0
+    </td>
+  </tr>
+
   <tr style="border:none;">
     <td style="vertical-align:middle; text-align:center; width:80px; border:none;">
       <img src="images/cuhk.png" alt="CUHK" width="64">
@@ -112,28 +137,8 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
       <b>MGPA:</b> 4.0/4.0 (Rank: 1/129, Top 1%)
     </td>
   </tr>
-  <tr style="border:none;">
-    <td style="vertical-align:middle; text-align:center; width:80px; border:none;">
-      <img src="images/ntu_single.png" alt="NTU" width="64">
-    </td>
-    <td style="vertical-align:top; padding-left:16px; border:none;">
-      <b>Nanyang Technological University (Exchange)</b><br>
-      <span style="color:#888;">2024.09 - 2024.12</span><br>
-      Major: Computer Science<br>
-      <b>CGPA:</b> 4.75/5.0
-    </td>
-  </tr>
-  <tr style="border:none;">
-    <td style="vertical-align:middle; text-align:center; width:80px; border:none;">
-      <img src="images/hku.png" alt="HKU" width="64">
-    </td>
-    <td style="vertical-align:top; padding-left:16px; border:none;">
-      <b>HKU MMLab (Incoming)</b><br>
-      <span style="color:#888;">2026 Fall (Expected)</span><br>
-      Musketeers Foundation Institute of Data Science (Conditional Offer)<br>
-      <b>Lab:</b> MMLab, HKU
-    </td>
-  </tr>
+  
+  
 </table>
 
 
