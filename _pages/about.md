@@ -38,7 +38,7 @@ I'm a Y4 Undergraduate student from The Chinese University of Hong Kong, Shenzhe
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2026 (Under Review)</div><img src='images/robomemory.jpg' alt="RoboMemory" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/robomemory.jpg' alt="RoboMemory" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](https://arxiv.org/abs/2508.01415)
@@ -49,7 +49,7 @@ I'm a Y4 Undergraduate student from The Chinese University of Hong Kong, Shenzhe
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 (Under Review)</div><img src='images/StarDojo.jpg' alt="StarDojo" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/StarDojo.jpg' alt="StarDojo" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production–Living Simulations with Stardew Valley](https://arxiv.org/abs/2507.07445)
