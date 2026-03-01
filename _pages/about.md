@@ -30,7 +30,7 @@ I'm a Y4 Undergraduate student from The Chinese University of Hong Kong, Shenzhe
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by NAACL 2025 Findings.
 - *2024.12*: &nbsp;🏆🏆 Awarded AY2023-2024 Academic Performance Scholarship: Class A (Top 1% GPA).
 
-# 📝 Publications 
+# 📝 Selected Publications
 
 
 
