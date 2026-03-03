@@ -19,7 +19,7 @@ redirect_from:
 
 # 🎓 About Me
 
-I'm a Y4 Undergraduate student from The Chinese University of Hong Kong, Shenzhen, majoring in Computer Science and Engineering. My research focuses on embodied AI and robotics. My research interests lie at the intersection of large language models, robotics, and embodied intelligence. I'm particularly interested in developing robust frameworks that enable AI agents to perform complex tasks in dynamic real-world environments. My recent work includes VLA, World Model, Agentic AI, Memory Systems. **Coming PhD at HKU MMLab.**
+I'm a Y4 Undergraduate student from The Chinese University of Hong Kong, Shenzhen, majoring in Computer Science and Engineering. My research focuses on embodied AI and robotics. My research interests lie at the intersection of large language models, robotics, and embodied intelligence. I'm particularly interested in developing robust frameworks that enable AI agents to perform complex tasks in dynamic real-world environments. My recent work includes VLA, World Model, Agentic AI, Memory Systems. **Coming PhD at UT-Austin.**
 
 
 # 🔥 News
