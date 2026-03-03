@@ -104,13 +104,13 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
 
   <tr style="border:none;">
     <td style="vertical-align:middle; text-align:center; width:80px; border:none;">
-      <img src="images/hku.png" alt="HKU" width="64">
+      <img src="images/uta.png" alt="UT-Austin" width="64">
     </td>
     <td style="vertical-align:top; padding-left:16px; border:none;">
-      <b>HKU MMLab (Incoming)</b><br>
+      <b>UT-Austin (Coming PhD)</b><br>
       <span style="color:#888;">2026 Fall (Expected)</span><br>
-      Musketeers Foundation Institute of Data Science (Conditional Offer)<br>
-      <b>Lab:</b> MMLab, HKU
+      PhD in Computer Science<br>
+      <b>School:</b> The University of Texas at Austin
     </td>
   </tr>
 
