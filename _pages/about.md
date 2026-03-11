@@ -19,14 +19,14 @@ redirect_from:
 
 # 🎓 About Me
 
-I'm a Y4 Undergraduate student from The Chinese University of Hong Kong, Shenzhen, majoring in Computer Science and Engineering. My research focuses on embodied AI and robotics. My research interests lie at the intersection of large language models, robotics, and embodied intelligence. I'm particularly interested in developing robust frameworks that enable AI agents to perform complex tasks in dynamic real-world environments. My recent work includes VLA, World Model, Agentic AI, Memory Systems. **Coming PhD at UT-Austin.**
+I'm a final-year Undergraduate student from The Chinese University of Hong Kong, Shenzhen, majoring in Computer Science and Engineering. My research focuses on embodied AI and robotics. My research interests lie at the intersection of large language models, robotics, and embodied intelligence. I'm particularly interested in continous learing of robot or VLM agent. My recent work includes VLA, World Model, Agentic AI, Memory Systems. **I am a coming PhD at UT-Austin.**
 
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 I got a PhD offer from UT-Austin CS.
 - *2026.02*: &nbsp;🎉🎉 Joined SenseTime as an Algorithm Intern focusing on world model.
 - *2025.12*: &nbsp;🏆🏆 Awarded AY2024-2025 Academic Performance Scholarship: Class A (Top 1% GPA).
-- *2025.04*: &nbsp;🎉🎉 One **First autor** paper accepted by IROS 2025 (Oral).
+- *2025.04*: &nbsp;🎉🎉 One **First autor** paper accepted by IROS 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by NAACL 2025 Findings.
 - *2024.12*: &nbsp;🏆🏆 Awarded AY2023-2024 Academic Performance Scholarship: Class A (Top 1% GPA).
 
@@ -59,7 +59,7 @@ Weihao Tan, Changjiu Jiang, Yu Duan, **Mingcong Lei**, Li JiaGeng, Yitian Hong, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025 Oral</div><img src='images/clea.jpg' alt="CLEA" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/clea.jpg' alt="CLEA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CLEA: Closed-Loop Embodied Agent for Enhancing Task Execution in Dynamic Environments](https://arxiv.org/abs/2503.00729)
