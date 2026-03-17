@@ -19,11 +19,10 @@ redirect_from:
 
 # 🎓 About Me
 
-I'm a final-year Undergraduate student from The Chinese University of Hong Kong, Shenzhen, majoring in Computer Science and Engineering. My research focuses on embodied AI and robotics. My research interests lie at the intersection of large language models, robotics, and embodied intelligence. I'm particularly interested in continous learing of robot or VLM agent. My recent work includes VLA, World Model, Agentic AI, Memory Systems. **I am a coming PhD at UT-Austin.**
+I'm a final-year Undergraduate student from The Chinese University of Hong Kong, Shenzhen, majoring in Computer Science and Engineering. My research focuses on embodied AI and robotics. My research interests lie at the intersection of large language models, robotics, and embodied intelligence. I'm particularly interested in continous learing of robot or VLM agent. My recent work includes VLA, World Model, Agentic AI, Memory Systems.
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 I got a PhD offer from UT-Austin CS.
 - *2026.02*: &nbsp;🎉🎉 Joined SenseTime as an Algorithm Intern focusing on world model.
 - *2025.12*: &nbsp;🏆🏆 Awarded AY2024-2025 Academic Performance Scholarship: Class A (Top 1% GPA).
 - *2025.04*: &nbsp;🎉🎉 One **First autor** paper accepted by IROS 2025.
@@ -101,17 +100,7 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
 
 <table style="border-collapse:collapse; border:none;">
 
-  <tr style="border:none;">
-    <td style="vertical-align:middle; text-align:center; width:80px; border:none;">
-      <img src="images/uta.png" alt="UT-Austin" width="64">
-    </td>
-    <td style="vertical-align:top; padding-left:16px; border:none;">
-      <b>UT-Austin (Coming PhD)</b><br>
-      <span style="color:#888;">2026 Fall (Expected)</span><br>
-      PhD in Computer Science<br>
-      <b>School:</b> The University of Texas at Austin
-    </td>
-  </tr>
+
 
   <tr style="border:none;">
     <td style="vertical-align:middle; text-align:center; width:80px; border:none;">
