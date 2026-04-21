@@ -19,7 +19,7 @@ redirect_from:
 
 # 🎓 About Me
 
-I'm a final-year Undergraduate student from The Chinese University of Hong Kong, Shenzhen, majoring in Computer Science and Engineering. My research focuses on embodied AI and robotics. My research interests lie at the intersection of large language models, robotics, and embodied intelligence. I'm particularly interested in continous learing of robot or VLM agent. My recent work includes VLA, World Model, Agentic AI, Memory Systems.
+I'm a final-year Undergraduate student from The Chinese University of Hong Kong, Shenzhen, majoring in Computer Science and Engineering. My research focuses on embodied AI and robotics. My research interests lie at the intersection of large language models, robotics, and embodied intelligence. I'm particularly interested in continous learing of robot or VLM agent. My recent work includes VLA, World Model, Agentic AI, Memory Systems. I am incomming CS phd student of UT-Austin.
 
 
 # 🔥 News
@@ -100,7 +100,17 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
 
 <table style="border-collapse:collapse; border:none;">
 
-
+  <tr style="border:none;">
+    <td style="vertical-align:middle; text-align:center; width:80px; border:none;">
+      <img src="images/uta.png" alt="UT-Austin" width="64">
+    </td>
+    <td style="vertical-align:top; padding-left:16px; border:none;">
+      <b>University of Texas at Austin</b><br>
+      <span style="color:#888;">2026.09 (expected) - Present</span><br>
+      Major: Computer Science<br>
+      Ph.D. in Computer Science (Incoming)
+    </td>
+  </tr>
 
   <tr style="border:none;">
     <td style="vertical-align:middle; text-align:center; width:80px; border:none;">
