@@ -19,15 +19,20 @@ redirect_from:
 
 # 🎓 About Me
 
-I'm a final-year Undergraduate student from The Chinese University of Hong Kong, Shenzhen, majoring in Computer Science and Engineering. My research focuses on embodied AI and robotics. My research interests lie at the intersection of large language models, robotics, and embodied intelligence. I'm particularly interested in continous learing of robot or VLM agent. My recent work includes VLA, World Model, Agentic AI, Memory Systems. I am incomming CS phd student of UT-Austin.
+I am an first-year Ph.D. student in Computer Science at The University of Texas at Austin. I received my B.Eng. degree with First Class Honours in Computer Science and Engineering from The Chinese University of Hong Kong, Shenzhen, and completed an exchange program at Nanyang Technological University.
+
+My research focuses on embodied AI and robotics, particularly at the intersection of large language models, robotic learning, and embodied intelligence. I am especially interested in continual learning and memory systems for robotic and vision-language agents. My recent work spans vision-language-action models, world models, agentic AI, and memory-augmented systems.
+
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 Joined SenseTime as an Algorithm Intern focusing on world model.
-- *2025.12*: &nbsp;🏆🏆 Awarded AY2024-2025 Academic Performance Scholarship: Class A (Top 1% GPA).
-- *2025.04*: &nbsp;🎉🎉 One **First autor** paper accepted by IROS 2025.
-- *2025.01*: &nbsp;🎉🎉 One paper accepted by NAACL 2025 Findings.
-- *2024.12*: &nbsp;🏆🏆 Awarded AY2023-2024 Academic Performance Scholarship: Class A (Top 1% GPA).
+* *2026.04*:  🎉🎉 Decided to join the **Computer Science PhD program at UT Austin**.
+* *2026.02*:  🎉🎉 Joined **SenseTime** as an Algorithm Intern, focusing on **world models**.
+* *2025.12*:  🏆🏆 Awarded the **AY2024–2025 Academic Performance Scholarship, Class A** (Top 1% by GPA).
+* *2025.04*:  🎉🎉 One **first-author paper** was accepted to **IROS 2025**.
+* *2025.01*:  🎉🎉 One paper was accepted to **Findings of NAACL 2025**.
+* *2024.12*:  🏆🏆 Awarded the **AY2023–2024 Academic Performance Scholarship, Class A** (Top 1% by GPA).
+
 
 # 📝 Selected Publications
 
@@ -106,7 +111,7 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
     </td>
     <td style="vertical-align:top; padding-left:16px; border:none;">
       <b>University of Texas at Austin</b><br>
-      <span style="color:#888;">2026.09 (expected) - Present</span><br>
+      <span style="color:#888;">2026.08 (expected) - Present</span><br>
       Major: Computer Science<br>
       Ph.D. in Computer Science (Incoming)
     </td>
@@ -120,7 +125,6 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
       <b>Nanyang Technological University (Exchange)</b><br>
       <span style="color:#888;">2024.09 - 2024.12</span><br>
       Major: Computer Science<br>
-      <b>CGPA:</b> 4.75/5.0
     </td>
   </tr>
 
@@ -131,31 +135,14 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
     <td style="vertical-align:top; padding-left:16px; border:none;">
       <b>The Chinese University of Hong Kong, Shenzhen</b><br>
       <span style="color:#888;">2022.09 - 2026.06 (expected)</span><br>
-      B.Eng. in Computer Science and Engineering<br>
-      <b>CGPA:</b> 3.90/4.0 (Rank: 7/129, Top 6%)<br>
-      <b>MGPA:</b> 4.0/4.0 (Rank: 1/129, Top 1%)
+      B.Eng. in Computer Science and Engineering with First Class Honours<br>
+      <b>GPA:</b> 3.80/4.0 (top 5%)<br>
     </td>
   </tr>
   
   
 </table>
 
-
-# 💻 Internships
-
-<table style="border-collapse:collapse; border:none;">
-  <tr style="border:none;">
-    <td style="vertical-align:middle; text-align:center; width:80px; border:none;">
-      <img src="images/sensetime.png" alt="SenseTime" width="64">
-    </td>
-    <td style="vertical-align:top; padding-left:16px; border:none;">
-      <b>SenseTime</b><br>
-      <span style="color:#888;">2026.02 - Present</span><br>
-      Algorithm Intern (World Model)<br>
-      Location: China
-    </td>
-  </tr>
-</table>
 
 # 👔 Services
 - Reviewer of IROS/ICML/ICLR/AAAI/EMNLP
