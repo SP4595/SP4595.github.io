@@ -26,6 +26,8 @@ My research focuses on embodied AI and robotics, particularly at the intersectio
 
 
 # 🔥 News
+* *2025.05*:  🎉🎉 One paper was accepted to **ECCV 2026**.
+* *2025.05*:  🎉🎉 One paper was accepted to **ICML 2026**.
 * *2026.04*:  🎉🎉 Decided to join the **Computer Science PhD program at UT Austin**.
 * *2025.12*:  🏆🏆 Awarded the **AY2024–2025 Academic Performance Scholarship, Class A** (Top 1% by GPA).
 * *2025.04*:  🎉🎉 One **first-author paper** was accepted to **IROS 2025**.
@@ -52,7 +54,7 @@ My research focuses on embodied AI and robotics, particularly at the intersectio
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/StarDojo.jpg' alt="StarDojo" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/StarDojo.jpg' alt="StarDojo" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production–Living Simulations with Stardew Valley](https://arxiv.org/abs/2507.07445)
