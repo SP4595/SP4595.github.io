@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Mingcong Lei"
   avatar           : "images/lmc_profile_standerd.jpg"
-  bio              : "Y4 Undergraduate at The Chinese University of Hong Kong, Shenzhen"
-  location         : "Shenzhen, China"
+  bio              : "Ph.D. student at The University of Texas at Austin."
+  location         : "Austin, TX, United States"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JlIZaDEAAAAJ&hl=en"
-  email            : "mingconglei@link.cuhk.edu.cn"
+  email            : "mclei@utexas.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
