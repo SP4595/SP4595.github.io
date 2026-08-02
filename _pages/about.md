@@ -134,7 +134,7 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
       <img src="images/cuhk.png" alt="CUHK" width="64">
     </td>
     <td style="vertical-align:top; padding-left:16px; border:none;">
-      <b>The Chinese University of Hong Kong, Shenzhen</b><br>
+      <b>The Chinese University of Hong Kong</b><br>
       <span style="color:#888;">2022.09 - 2026.06</span><br>
       B.Eng. in Computer Science and Engineering with First Class Honours<br>
       <b>GPA:</b> 3.8/4.0 (top 5%)<br>
