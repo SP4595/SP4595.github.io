@@ -19,7 +19,7 @@ redirect_from:
 
 # 🎓 About Me
 
-I am a first-year Ph.D. student in Computer Science at The University of Texas at Austin. I received my B.Eng. degree with First Class Honours in Computer Science and Engineering from The Chinese University of Hong Kong, Shenzhen. During my undergraduate studies, I also completed an exchange program at Nanyang Technological University.
+I am a first-year Ph.D. student in Computer Science at The University of Texas at Austin. I received my B.Eng. degree with First Class Honours in Computer Science and Engineering from The Chinese University of Hong Kong. During my undergraduate studies, I also completed an exchange program at Nanyang Technological University.
 
 My research focuses on embodied AI and robotics, particularly at the intersection of large language models, robotic learning, and embodied intelligence. I am especially interested in continual learning and memory systems for robotic and vision-language agents. My recent work spans vision-language-action models, world models, agentic AI, and memory-augmented systems.
 
