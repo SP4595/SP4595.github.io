@@ -43,7 +43,7 @@ My research focuses on embodied AI and robotics, particularly at the intersectio
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/robomemory.jpg' alt="RoboMemory" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025 SpaVLE</div><img src='images/robomemory.jpg' alt="RoboMemory" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](https://arxiv.org/abs/2508.01415)
