@@ -145,15 +145,7 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
 </table>
 
 
-# � Internships
-<div style="display:flex; align-items:flex-start; gap:12px; margin-bottom:16px;">
-  <img src="images/sensetime.png" alt="SenseTime" width="72" style="margin-top:4px;">
-  <div>
-    <b>SenseTime</b><br>
-    <span style="color:#888;">2026.02-2026.04</span><br>
-    Research Intern, World Model
-  </div>
-</div>
+
 
 # �👔 Services
 - Reviewer of IROS/ICML/ICLR/AAAI/EMNLP/CoRL

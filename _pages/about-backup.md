@@ -56,3 +56,13 @@ My research interest includes VLA, World Model, Agentic AI. I  <a href='https://
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 💻 Internships
+<div style="display:flex; align-items:flex-start; gap:12px; margin-bottom:16px;">
+  <img src="images/sensetime.png" alt="SenseTime" width="72" style="margin-top:4px;">
+  <div>
+    <b>SenseTime</b><br>
+    <span style="color:#888;">2026.02-2026.04</span><br>
+    Research Intern, World Model
+  </div>
+</div>
