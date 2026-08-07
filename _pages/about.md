@@ -123,9 +123,10 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
       <img src="images/ntu_single.png" alt="NTU" width="64">
     </td>
     <td style="vertical-align:top; padding-left:16px; border:none;">
-      <b>Nanyang Technological University (Exchange)</b><br>
+      <b>Nanyang Technological University </b><br>
       <span style="color:#888;">2024.09 - 2024.12</span><br>
       Major: Computer Science<br>
+      Exchange
     </td>
   </tr>
 
@@ -147,7 +148,7 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
 
 
 
-# �👔 Services
+# 👔 Services
 - Reviewer of IROS/ICML/ICLR/AAAI/EMNLP/CoRL
 
 
