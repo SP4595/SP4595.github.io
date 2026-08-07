@@ -112,9 +112,8 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
     </td>
     <td style="vertical-align:top; padding-left:16px; border:none;">
       <b>University of Texas at Austin</b><br>
-      <span style="color:#888;">2026.08 - Present</span><br>
-      Major: Computer Science<br>
-      Ph.D. in Computer Science
+      <span style="color:#888;">2026.08 - Present</span><br><br>
+      Ph.D. student in Computer Science
     </td>
   </tr>
 
