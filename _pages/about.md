@@ -26,6 +26,7 @@ My research focuses on embodied AI and robotics, particularly at the intersectio
 
 
 # 🔥 News
+* *2026.09*:  🎉🎉 Our paper **RoboMemory** was accepted to **CoRL 2026**.
 * *2026.06*:  🎉🎉 One paper was accepted to **ECCV 2026**.
 * *2026.05*:  🎉🎉 One paper was accepted to **ICML 2026**.
 * *2026.04*:  🎉🎉 Decided to join the **Computer Science PhD program at UT Austin**.
@@ -43,7 +44,7 @@ My research focuses on embodied AI and robotics, particularly at the intersectio
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2025 SpaVLE</div><img src='images/robomemory.jpg' alt="RoboMemory" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2026</div><img src='images/robomemory.jpg' alt="RoboMemory" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](https://arxiv.org/abs/2508.01415)
@@ -146,6 +147,21 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
   
 </table>
 
+
+# 💻 Internships
+
+<div style="display:flex; align-items:flex-start; gap:12px; margin-bottom:16px;">
+  <img src="images/sensetime.png" alt="SenseTime" width="72" style="margin-top:4px;">
+  <div>
+    <b>SenseTime</b><br>
+    <span style="color:#888;">2026.02 - 2026.04</span><br>
+    Research Intern, World Models
+    <ul style="margin-top:8px;">
+      <li>Developed and trained large-scale world models as learned simulators for embodied reinforcement learning.</li>
+      <li>Scaled distributed training across a compute cluster of more than 100 NVIDIA A800 GPUs.</li>
+    </ul>
+  </div>
+</div>
 
 
 
