@@ -64,6 +64,8 @@ My research focuses on embodied AI and robotics, particularly at the intersectio
 
 Weihao Tan, Changjiu Jiang, Yu Duan, **Mingcong Lei**, Li JiaGeng, Yitian Hong, Xinrun Wang, Bo An
 
+[Project](https://weihaotan.github.io/StarDojo/) · [Code](https://github.com/StarDojo2025/stardojo)
+
 </div>
 </div>
 
@@ -73,6 +75,8 @@ Weihao Tan, Changjiu Jiang, Yu Duan, **Mingcong Lei**, Li JiaGeng, Yitian Hong, 
 [CLEA: Closed-Loop Embodied Agent for Enhancing Task Execution in Dynamic Environments](https://arxiv.org/abs/2503.00729)
 
 **Mingcong Lei**, Ge Wang, Yiming Zhao, Zhixin Mai, Qing Zhao, Yao Guo, Zhen Li, Shuguang Cui, Yatong Han, Jinke Ren
+
+[Project](https://sp4595.github.io/CLEA/) · [Code](https://github.com/SP4595/CLEA-Closed-Loop-Embodied-Agent)
 
 </div>
 </div>
@@ -94,6 +98,8 @@ Weihao Tan, Changjiu Jiang, Yu Duan, **Mingcong Lei**, Li JiaGeng, Yitian Hong, 
 [UCFE: A User-Centric Financial Expertise Benchmark for Large Language Models](https://arxiv.org/abs/2410.14059)
 
 Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei**, Xiao Zhang, Haining Wang, Qianqian Xie, Jimin Huang, Honghai Yu, Benyou Wang
+
+[Code](https://github.com/TobyYang7/UCFE-Benchmark) · [Dataset](https://huggingface.co/datasets/TobyYang7/UCFE)
 
 </div>
 </div>
