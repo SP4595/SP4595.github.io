@@ -26,7 +26,7 @@ My research focuses on embodied AI and robotics, particularly at the intersectio
 
 
 # 🔥 News
-* *2026.10*: 🚀 **RoboMemory** code is now [open source](https://github.com/SP4595/RoboMemory-Code)! Stars are welcome!
+* *2026.10*: 🚀 **RoboMemory** code is now [open source](https://github.com/SP4595/RoboMemory-Code)!
 * *2026.09*:  🎉🎉 Our paper **RoboMemory** was accepted to **CoRL 2026**.
 * *2026.06*:  🎉🎉 One paper was accepted to **ECCV 2026**.
 * *2026.05*:  🎉🎉 One paper was accepted to **ICML 2026**.
