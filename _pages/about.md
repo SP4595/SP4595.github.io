@@ -19,7 +19,7 @@ redirect_from:
 
 # 🎓 About Me
 
-I am a first-year Ph.D. student in Computer Science at The University of Texas at Austin. I received my B.Eng. degree with First Class Honours in Computer Science and Engineering from The Chinese University of Hong Kong. During my undergraduate studies, I also completed an exchange program at Nanyang Technological University.
+I am a first-year Ph.D. student in Computer Science at The University of Texas at Austin. I received my B.Eng. degree with First Class Honours in Computer Science and Engineering from The Chinese University of Hong Kong, Shenzhen. During my undergraduate studies, I also completed an exchange program at Nanyang Technological University.
 
 My research focuses on embodied AI and robotics, particularly at the intersection of large language models, robotic learning, and embodied intelligence. I am especially interested in continual learning and memory systems for robotic and vision-language agents. My recent work spans vision-language-action models, world models, agentic AI, and memory-augmented systems.
 
@@ -143,10 +143,10 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
 
   <tr style="border:none;">
     <td style="vertical-align:middle; text-align:center; width:80px; border:none;">
-      <img src="images/cuhk.png" alt="CUHK" width="64">
+      <img src="images/cuhk.png" alt="CUHK-Shenzhen" width="64">
     </td>
     <td style="vertical-align:top; padding-left:16px; border:none;">
-      <b>The Chinese University of Hong Kong</b><br>
+      <b>The Chinese University of Hong Kong, Shenzhen</b><br>
       <span style="color:#888;">2022.09 - 2026.06</span><br>
       B.Eng. in Computer Science and Engineering with First Class Honours<br>
       <b>GPA:</b> 3.8/4.0 (top 5%)<br>
