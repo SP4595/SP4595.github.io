@@ -26,6 +26,7 @@ My research focuses on embodied AI and robotics, particularly at the intersectio
 
 
 # 🔥 News
+* *2026.10*: 🚀 **RoboMemory** code is now [open source](https://github.com/SP4595/RoboMemory-Code)! Stars are welcome!
 * *2026.09*:  🎉🎉 Our paper **RoboMemory** was accepted to **CoRL 2026**.
 * *2026.06*:  🎉🎉 One paper was accepted to **ECCV 2026**.
 * *2026.05*:  🎉🎉 One paper was accepted to **ICML 2026**.
@@ -51,7 +52,7 @@ My research focuses on embodied AI and robotics, particularly at the intersectio
 
 **Mingcong Lei**, Honghao Cai, Yuyuan Yang, Yimou Wu, Jinke Ren, Zezhou Cui, Liangchen Tan, Junkun Hong, Gehan Hu, Shuangyu Zhu, Shaohan Jiang, Ge Wang, Junyuan Tan, Zhenglin Wan, Zhongkai Xue, Zheng Li, Zhen Li, Shuguang Cui, Yiming Zhao, Yatong Han
 
-[Project](https://sp4595.github.io/robomemory/) · [Code](https://github.com/SP4595/RoboMemory-Code)
+[Project](https://sp4595.github.io/robomemory/) · [Code](https://github.com/SP4595/RoboMemory-Code) · [![RoboMemory GitHub stars](https://img.shields.io/github/stars/SP4595/RoboMemory-Code?style=social)](https://github.com/SP4595/RoboMemory-Code)
 
 </div>
 </div>
@@ -64,7 +65,7 @@ My research focuses on embodied AI and robotics, particularly at the intersectio
 
 Weihao Tan, Changjiu Jiang, Yu Duan, **Mingcong Lei**, Li JiaGeng, Yitian Hong, Xinrun Wang, Bo An
 
-[Project](https://weihaotan.github.io/StarDojo/) · [Code](https://github.com/StarDojo2025/stardojo)
+[Project](https://weihaotan.github.io/StarDojo/) · [Code](https://github.com/StarDojo2025/stardojo) · [![StarDojo GitHub stars](https://img.shields.io/github/stars/StarDojo2025/stardojo?style=social)](https://github.com/StarDojo2025/stardojo)
 
 </div>
 </div>
@@ -76,7 +77,7 @@ Weihao Tan, Changjiu Jiang, Yu Duan, **Mingcong Lei**, Li JiaGeng, Yitian Hong, 
 
 **Mingcong Lei**, Ge Wang, Yiming Zhao, Zhixin Mai, Qing Zhao, Yao Guo, Zhen Li, Shuguang Cui, Yatong Han, Jinke Ren
 
-[Project](https://sp4595.github.io/CLEA/) · [Code](https://github.com/SP4595/CLEA-Closed-Loop-Embodied-Agent)
+[Project](https://sp4595.github.io/CLEA/) · [Code](https://github.com/SP4595/CLEA-Closed-Loop-Embodied-Agent) · [![CLEA GitHub stars](https://img.shields.io/github/stars/SP4595/CLEA-Closed-Loop-Embodied-Agent?style=social)](https://github.com/SP4595/CLEA-Closed-Loop-Embodied-Agent)
 
 </div>
 </div>
@@ -99,7 +100,7 @@ Weihao Tan, Changjiu Jiang, Yu Duan, **Mingcong Lei**, Li JiaGeng, Yitian Hong, 
 
 Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei**, Xiao Zhang, Haining Wang, Qianqian Xie, Jimin Huang, Honghai Yu, Benyou Wang
 
-[Code](https://github.com/TobyYang7/UCFE-Benchmark) · [Dataset](https://huggingface.co/datasets/TobyYang7/UCFE)
+[Code](https://github.com/TobyYang7/UCFE-Benchmark) · [Dataset](https://huggingface.co/datasets/TobyYang7/UCFE) · [![UCFE GitHub stars](https://img.shields.io/github/stars/TobyYang7/UCFE-Benchmark?style=social)](https://github.com/TobyYang7/UCFE-Benchmark)
 
 </div>
 </div>
