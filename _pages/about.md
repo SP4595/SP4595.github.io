@@ -51,6 +51,8 @@ My research focuses on embodied AI and robotics, particularly at the intersectio
 
 **Mingcong Lei**, Honghao Cai, Yuyuan Yang, Yimou Wu, Jinke Ren, Zezhou Cui, Liangchen Tan, Junkun Hong, Gehan Hu, Shuangyu Zhu, Shaohan Jiang, Ge Wang, Junyuan Tan, Zhenglin Wan, Zhongkai Xue, Zheng Li, Zhen Li, Shuguang Cui, Yiming Zhao, Yatong Han
 
+[Project](https://sp4595.github.io/robomemory/) · [Code](https://github.com/SP4595/RoboMemory-Code)
+
 </div>
 </div>
 
