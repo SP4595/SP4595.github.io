@@ -107,6 +107,7 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
 
 # 🎖 Honors and Awards
 - *2026* Browne Graduate Fellowship, The University of Texas at Austin
+- Outstanding Graduate, School of Data Science, CUHK-Shenzhen
 - *2024-2025* Academic Performance Scholarship: Class A (Year GPA top 1%)
 - *2023-2024* Academic Performance Scholarship: Class A (Year GPA top 1%)
 - *2024* MCM/ICM Meritorious Winner
@@ -175,7 +176,7 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
 
 
 # 👔 Services
-- Reviewer of IROS/ICML/ICLR/AAAI/EMNLP/CoRL
+- Reviewer of IROS/ICML/ICLR/AAAI/EMNLP/CoRL/ICRA
 
 
 <div style="margin-top:40px;"></div>
