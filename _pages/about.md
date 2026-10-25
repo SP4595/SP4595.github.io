@@ -175,6 +175,20 @@ Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei*
 
 
 
+<div style="display:flex; align-items:flex-start; gap:12px; margin-bottom:16px;">
+  <img src="images/cuhk.png" alt="CUHK-Shenzhen" width="72" style="margin-top:4px;">
+  <div>
+    <b>The Chinese University of Hong Kong, Shenzhen</b><br>
+    <span style="color:#888;">2024.05 - 2025.08</span><br>
+    Research Assistant, Embodied Agents
+    <ul style="margin-top:8px;">
+      <li>Conducted research on embodied agents, focusing on memory systems, long-horizon planning, and real-world interaction.</li>
+      <li>Led the development of <a href="https://sp4595.github.io/robomemory/">RoboMemory</a> (CoRL 2026) and <a href="https://sp4595.github.io/CLEA/">CLEA</a> (IROS 2025), from agent architecture design and model training to system implementation and evaluation.</li>
+    </ul>
+  </div>
+</div>
+
+
 # 👔 Services
 - Reviewer of IROS/ICML/ICLR/AAAI/EMNLP/CoRL/ICRA
 
