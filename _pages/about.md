@@ -39,17 +39,7 @@ My research focuses on embodied AI and robotics, particularly at the intersectio
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/DecisionPivot.jpg' alt="RoboMemory" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[DecisionPivot: A Diagnostic Benchmark for Decision Models in LLM Systems](https://arxiv.org/abs/2610.28522)
-
-Xialie Zhuang, **Mingcong Lei**, Zunhai Su, Ri Liu, Jianjin Li, Peixian Ma, Jia Pan, Ngai Wong, Guanhua Chen, Chuan-Wei Kuo
-
-[Project](https://github.com/StartLuxLabs/DecisionPivot) · [Code](https://github.com/StartLuxLabs/DecisionPivot) · [![DecisionPivot GitHub stars](https://img.shields.io/github/stars/StartLuxLabs/DecisionPivot?style=social)](https://github.com/StartLuxLabs/DecisionPivot)
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2026</div><img src='images/robomemory.jpg' alt="RoboMemory" width="100%"></div></div>
@@ -89,15 +79,17 @@ Weihao Tan, Changjiu Jiang, Yu Duan, **Mingcong Lei**, Li JiaGeng, Yitian Hong, 
 </div>
 </div>
 
+# 📄 Technical Report
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025 findings</div><img src='images/ucfe.jpg' alt="UCFE" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/DecisionPivot.jpg' alt="RoboMemory" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[UCFE: A User-Centric Financial Expertise Benchmark for Large Language Models](https://arxiv.org/abs/2410.14059)
+[DecisionPivot: A Diagnostic Benchmark for Decision Models in LLM Systems](https://arxiv.org/abs/2610.28522)
 
-Yuzhe Yang, Yifei Zhang, Yan Hu, Yilin Guo, Ruoli Gan, Yueru He, **Mingcong Lei**, Xiao Zhang, Haining Wang, Qianqian Xie, Jimin Huang, Honghai Yu, Benyou Wang
+Xialie Zhuang, **Mingcong Lei**, Zunhai Su, Ri Liu, Jianjin Li, Peixian Ma, Jia Pan, Ngai Wong, Guanhua Chen, Chuan-Wei Kuo
 
-[Code](https://github.com/TobyYang7/UCFE-Benchmark) · [Dataset](https://huggingface.co/datasets/TobyYang7/UCFE) · [![UCFE GitHub stars](https://img.shields.io/github/stars/TobyYang7/UCFE-Benchmark?style=social)](https://github.com/TobyYang7/UCFE-Benchmark)
+[Project](https://github.com/StartLuxLabs/DecisionPivot) · [Code](https://github.com/StartLuxLabs/DecisionPivot) · [![DecisionPivot GitHub stars](https://img.shields.io/github/stars/StartLuxLabs/DecisionPivot?style=social)](https://github.com/StartLuxLabs/DecisionPivot)
 
 </div>
 </div>
