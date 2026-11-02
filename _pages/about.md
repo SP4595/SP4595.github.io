@@ -42,7 +42,17 @@ My research focuses on embodied AI and robotics, particularly at the intersectio
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/DecisionPivot.jpg' alt="RoboMemory" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[DecisionPivot: A Diagnostic Benchmark for Decision Models in LLM Systems](https://arxiv.org/abs/2610.28522)
+
+Xialie Zhuang, **Mingcong Lei**, Zunhai Su, Ri Liu, Jianjin Li, Peixian Ma, Jia Pan, Ngai Wong, Guanhua Chen, Chuan-Wei Kuo
+
+[Project](https://github.com/StartLuxLabs/DecisionPivot) · [Code](https://github.com/StartLuxLabs/DecisionPivot) · [![DecisionPivot GitHub stars](https://img.shields.io/github/stars/StartLuxLabs/DecisionPivot?style=social)](https://github.com/StartLuxLabs/DecisionPivot)
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CoRL 2026</div><img src='images/robomemory.jpg' alt="RoboMemory" width="100%"></div></div>
