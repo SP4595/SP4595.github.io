@@ -90,16 +90,6 @@ Weihao Tan, Changjiu Jiang, Yu Duan, **Mingcong Lei**, Li JiaGeng, Yitian Hong, 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/STMA_compare.jpg' alt="STMA" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[STMA: A Spatio-Temporal Memory Agent for Long-Horizon Embodied Task Planning](https://arxiv.org/abs/2502.10177)
-
-**Mingcong Lei**, Yiming Zhao, Ge Wang, Zhixin Mai, Shuguang Cui, Yatong Han, Jinke Ren
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2025 findings</div><img src='images/ucfe.jpg' alt="UCFE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
