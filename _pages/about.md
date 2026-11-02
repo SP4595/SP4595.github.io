@@ -39,7 +39,7 @@ My research focuses on embodied AI and robotics, particularly at the intersectio
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">preprint</div><img src='images/DecisionPivot.jpg' alt="RoboMemory" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='images/DecisionPivot.jpg' alt="RoboMemory" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DecisionPivot: A Diagnostic Benchmark for Decision Models in LLM Systems](https://arxiv.org/abs/2610.28522)
